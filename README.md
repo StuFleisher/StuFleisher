@@ -1,6 +1,4 @@
 ## Hi, I'm Stu!
-<img align="left" src="https://github.com/StuFleisher/StuFleisher/assets/131288494/a424f173-4e25-41f0-8521-1bb3492356f4">
-
 
 I'm a software engineer with a passion for supporting artists and creators. For 15 years I worked as an animator, director, and creative leader, solving technical challenges in media production, often by building small tools in JavaScript. Today I focus on the intersection of design and technology in order to help creatives thrive.
 
